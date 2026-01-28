@@ -1,4 +1,4 @@
-# Personal Portfolio Website
+# HTML Portfolio Website
 
 This is a simple **personal portfolio website** built using **pure HTML**.  
 It showcases personal details, skills, experience, projects, education, and contact information in a clean and structured way using semantic HTML.
